@@ -54,8 +54,9 @@ This app allow user to control monthly expense and view it's progress each month
         -   Allow user to send an email.
 
 
-#### Todo: 
+### Todo: 
 
+ - app internalization (adding PT version)
  - code refactoring 
  - backup data-  Apple could or Firebase by google
  - notification 
