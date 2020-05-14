@@ -43,15 +43,15 @@ This app allow user to control monthly expense and view it's progress each month
         
     -   Preference:
         
-        -   inser monthly incoming
+       -  insert monthly incoming
             
-        -   update isMonthly expense date etc.
+       -  update isMonthly expense date etc.
             
-        -   select what category will apear in the Add Expense/Budget menu
+       -  select what category will apear in the Add Expense/Budget menu
             
     -   Contant Us:
         
-        -   Allow user to send an email.
+       -  Allow user to send an email.
 
 
 ### Todo: 
