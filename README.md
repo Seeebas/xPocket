@@ -1,9 +1,10 @@
 
+
 # xPocket 
 
 A personal finance app. 
 
-This app allow user to controle month expenses and also add budget an view it's progress each month
+This app allow user to control monthly expense and view it's progress each month. Also allow user to add a budget and view it's progress each month.
 
 ### App overview:
 
@@ -17,6 +18,8 @@ This app allow user to controle month expenses and also add budget an view it's 
     
     -   see all the budgets that we created
     -   see how much you will need to save. (money per month, months to goo etc.)
+	    - app will automatically update amount each month.
+    	
         
 -   **Adding Expense/Budget**:
     
@@ -28,10 +31,10 @@ This app allow user to controle month expenses and also add budget an view it's 
         
 -   **Stats**:
     
-    -   user can chose an year (year appear if there is a expense)
+    -  user can chose an year (year appear if there is a expense)
 	    -  for each year user will see:
 		    - total expense, total incoming, expensive month and also expensive category. 
-        -   click in the chart bar month and see all the expenses for that  month.
+    -  click in the chart bar month and see all the expenses for that  month.
             
 -   **Settings**:
         
