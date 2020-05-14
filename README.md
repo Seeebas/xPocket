@@ -1,8 +1,5 @@
 
 # xPocket 
-| lol | lol |
-|--|--|
-| teste |  teste|
 
 A personal finance app. 
 
