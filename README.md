@@ -58,10 +58,10 @@ This app allow user to controle month expenses and also add budget an view it's 
 
 ### This project use the following cocoapods:
 
- - Charts [[https://github.com/danielgindi/Charts](https://github.com/danielgindi/Charts)] 
+ - Charts [https://github.com/danielgindi/Charts](https://github.com/danielgindi/Charts) 
  - ChameleonFramework/Swift [https://github.com/viccalexander/Chameleon](https://github.com/viccalexander/Chameleon)
  - RealmSwift [https://realm.io/docs/swift/latest/#installation](https://realm.io/docs/swift/latest/#installation)
- - UICircularProgressRing [https://github.com/luispadron/UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing)]
+ - UICircularProgressRing [https://github.com/luispadron/UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing)
 
 Icons used from icons8.com
 
