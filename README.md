@@ -2,6 +2,9 @@
 
 # xPocket 
 
+**NOTE:** **App currently in working progress. No current stable version**
+
+ 
 A personal finance app. 
 
 This app allow user to control monthly expense and view it's progress each month. Also allow user to add a budget and view it's progress each month.
@@ -53,11 +56,13 @@ This app allow user to control monthly expense and view it's progress each month
 
 #### Todo: 
 
+ - code refactoring 
  - backup data-  Apple could or Firebase by google
  - notification 
 	 - allow app to notify user when isMonthly expenses are added.
-	 - allow app to 
- -  
+	 - allow app to  notify user to add expense if there are no expense in the current month.
+- login/sing-in with facebook or google account
+	 
 
 ### This project use the following cocoapods:
 
@@ -66,7 +71,7 @@ This app allow user to control monthly expense and view it's progress each month
  - RealmSwift [https://realm.io/docs/swift/latest/#installation](https://realm.io/docs/swift/latest/#installation)
  - UICircularProgressRing [https://github.com/luispadron/UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing)
 
-Icons used from icons8.com
+**Icons used from:** icons8.com
 
 **NOTE:** Feel free to use or modify this project.
 
@@ -90,4 +95,4 @@ Icons used from icons8.com
 
 # License
 
-sMovie is published under the **MIT** license. See [LICENSE](https://opensource.org/licenses/MIT) for more information.
+xPocket is published under the **MIT** license. See [LICENSE](https://opensource.org/licenses/MIT) for more information.
