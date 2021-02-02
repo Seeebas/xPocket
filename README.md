@@ -2,7 +2,7 @@
 
 # xPocket 
 
-**NOTE:** **App currently in working progress. No current stable version**
+**NOTE:** **This app is under a re-design process with SwiftUI. No current stable version**
 
  
 A personal finance app. 
